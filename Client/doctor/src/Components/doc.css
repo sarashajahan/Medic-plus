@@ -1,0 +1,209 @@
+body {
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    /* font-family: 'Lato', sans-serif; */
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: Courier sans-serif;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+    background: #ecf0f3;
+  }
+
+.doc-main,.doc-main-2{
+    margin-top: 1rem;
+    width: 60vw;
+    height: 88%;
+    padding: 40px 20px 20px 20px;
+    border-radius: 30px;
+    background: #ecf0f3;
+    box-shadow: 10px 10px 15px #cbced1, -10px -10px 15px #ffffff;
+    margin-left: 15%;
+}
+
+.top{
+    display: flex;
+    margin-top: 10px;
+}
+
+.top h1{
+    font-weight: 700;
+    color: black;
+    padding-bottom: 40px;
+    font-size: 39px;
+}
+
+.doc-fields{
+    display: flex;
+    width: 100%;
+}
+
+.top button{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 12%;
+    height: 50px; 
+    border-radius: 25px; 
+    font-size: 18px; 
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    background: #2fa6f5;
+    box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
+    transition: 0.5s;
+    margin-left: 20rem;
+}
+
+.doc-fields input {
+    margin-left: 10px;
+    width: 90%;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 16px; /* Adjusted font size */
+    color: #555;
+    padding: 16px 8px 16px 4px;
+}
+
+.pat-input{
+    margin-bottom: 16px; /* Adjusted margin */
+    border-radius: 20px; /* Adjusted border radius */
+    box-shadow: inset 5px 5px 5px #cbced1, inset -5px -5px 5px #ffffff; /* Adjusted box-shadow */
+}
+
+.left-doc .pat-details{
+    margin-bottom: 30px;
+}
+
+.doc-fields2{
+    margin-left: 10px;
+}
+
+.doc-fields2 label{
+    margin-top: 10px;
+    font-size: 1.2rem;
+    /* margin-left: 1rem; */
+    padding-bottom: 3rem;
+}
+
+input {
+    background-color: white;
+    /* width : 100% !important; */
+    height: 1.4rem;
+    border-radius: .4rem;
+    color: black;
+    width: 368px;
+}
+
+.pat-details{
+    /* margin-right: 10px; */
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+.left-doc{
+    padding-left: 20px;
+    width: 390px;
+    margin-bottom: 20px;
+}
+
+.right-doc{
+    padding-left: 90px;
+    width: 390px;
+    margin-bottom: 10px;
+}
+
+.blood_in{
+    width: 95%;
+    background:none;
+    border: none;
+    height: 6.6vh;
+    margin-left: 10px;
+    margin-right: 50px;
+}
+
+.signin-button2{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 75%;
+    height: 50px; /* Adjusted height */
+    border-radius: 25px; /* Adjusted border radius */
+    font-size: 18px; /* Adjusted font size */
+    font-weight: 700;
+    /* font-family: 'Lato', sans-serif; */
+    color: #fff;
+    text-align: center;
+    background: #2fa6f5;
+    box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #ffffff;
+    transition: 0.5s;
+    margin-left: 120px;
+  }
+
+  
+
+  .username{
+    margin-top: 20px;
+  }
+
+  #pat-inp-spc {
+    display: flex;
+    align-items: center;
+  }
+  
+  #pat-inp-spc label {
+    margin-right: 5px; /* Adjust margin as needed */
+  }
+  
+  #pat-inp-spc input[type="text"] {
+    width: 200px; /* Set a fixed width or a percentage width */
+  }
+
+
+
+.doc-fields2 .pat-details-spc{
+    margin-top: 0px;
+    font-size: 1.2rem;
+    /* margin-left: 1rem; */
+    padding-bottom: .5rem;
+    margin-left: 20px;
+}
+
+.errrr{
+    color: red;
+}
+
+.center-doc{
+    /* padding-left: 20px; */
+    width: 390px;
+    margin-bottom: 20px;
+}
+
+.pat-input-ta{
+    margin-left: -20px;
+    width: 100%;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 16px;
+    color: #555;
+    padding: 40px 8px 16px 4px;
+    }
+
+    .center-doc1{
+        margin-left: 12rem;
+        width: 60%;
+    }
+
+    .center-doc1 label{
+        font-weight: 500;
+        font-size: 1.2rem;
+        color: #555;
+    }
+
+

@@ -1,0 +1,1606 @@
+
+[{
+  "batch": 1,
+  "medName": "Radiation",
+  "expdate": "3/15/2024",
+  "nop": 1,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 12,
+  "ts": 2
+}, {
+  "batch": 2,
+  "medName": "Bartonella Remedy",
+  "expdate": "10/23/2023",
+  "nop": 9,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 117
+}, {
+  "batch": 3,
+  "medName": "Doxorubicin Hydrochloride",
+  "expdate": "6/25/2023",
+  "nop": 4,
+  "ssp": 3,
+  "medtype": "tablet",
+  "pps": 7,
+  "ts": 12
+}, {
+  "batch": 4,
+  "medName": "mucus relief",
+  "expdate": "12/13/2023",
+  "nop": 11,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 8,
+  "ts": 88
+}, {
+  "batch": 5,
+  "medName": "Polibar ACB",
+  "expdate": "1/25/2024",
+  "nop": 12,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 156
+}, {
+  "batch": 6,
+  "medName": "NBB Cherry",
+  "expdate": "6/19/2023",
+  "nop": 8,
+  "ssp": 3,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 24
+}, {
+  "batch": 7,
+  "medName": "Creon",
+  "expdate": "8/22/2023",
+  "nop": 12,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 7,
+  "ts": 156
+}, {
+  "batch": 8,
+  "medName": "EROS BODYGLIDE",
+  "expdate": "4/17/2023",
+  "nop": 2,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 11,
+  "ts": 18
+}, {
+  "batch": 9,
+  "medName": "Benzonatate",
+  "expdate": "10/16/2023",
+  "nop": 11,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 2,
+  "ts": 88
+}, {
+  "batch": 10,
+  "medName": "FOLIC ACID",
+  "expdate": "4/22/2023",
+  "nop": 14,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 15,
+  "ts": 154
+}, {
+  "batch": 11,
+  "medName": "Treatment Set TS349632",
+  "expdate": "9/6/2023",
+  "nop": 15,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 165
+}, {
+  "batch": 12,
+  "medName": "Diltiazem Hydrochloride",
+  "expdate": "5/6/2023",
+  "nop": 5,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 45
+}, {
+  "batch": 13,
+  "medName": "good neighbor pharmacy tussin",
+  "expdate": "9/9/2023",
+  "nop": 12,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 12
+}, {
+  "batch": 14,
+  "medName": "LBEL",
+  "expdate": "1/1/2024",
+  "nop": 2,
+  "ssp": 3,
+  "medtype": "tablet",
+  "pps": 7,
+  "ts": 6
+}, {
+  "batch": 15,
+  "medName": "Dandruff",
+  "expdate": "12/10/2023",
+  "nop": 1,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 13
+}, {
+  "batch": 16,
+  "medName": "Sheer Genius Liquid Foundation - Medium Dark Look",
+  "expdate": "4/21/2023",
+  "nop": 14,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 154
+}, {
+  "batch": 17,
+  "medName": "Oregon Ash",
+  "expdate": "3/9/2024",
+  "nop": 2,
+  "ssp": 7,
+  "medtype": "tablet",
+  "pps": 10,
+  "ts": 14
+}, {
+  "batch": 18,
+  "medName": "Promethazine Hydrochloride",
+  "expdate": "7/20/2023",
+  "nop": 14,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 126
+}, {
+  "batch": 19,
+  "medName": "L OCCITANE IMMORTELLE BRIGHTENING HAND CARE BROAD SPECTRUM SPF 20 SUNSCREEN",
+  "expdate": "1/18/2024",
+  "nop": 8,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 120
+}, {
+  "batch": 20,
+  "medName": "Pussy Willow",
+  "expdate": "2/2/2024",
+  "nop": 10,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 110
+}, {
+  "batch": 21,
+  "medName": "Lipitor",
+  "expdate": "5/17/2023",
+  "nop": 9,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 18
+}, {
+  "batch": 22,
+  "medName": "Demeclocycline Hydrochloride",
+  "expdate": "12/15/2023",
+  "nop": 2,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 12,
+  "ts": 30
+}, {
+  "batch": 23,
+  "medName": "Lisinopril and Hydrochlorothiazide",
+  "expdate": "1/2/2024",
+  "nop": 12,
+  "ssp": 12,
+  "medtype": "tablet",
+  "pps": 15,
+  "ts": 144
+}, {
+  "batch": 24,
+  "medName": "Fosphenytoin Sodium",
+  "expdate": "7/8/2023",
+  "nop": 2,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 9,
+  "ts": 18
+}, {
+  "batch": 25,
+  "medName": "Day Time Gelcap",
+  "expdate": "8/1/2023",
+  "nop": 12,
+  "ssp": 4,
+  "medtype": "tablet",
+  "pps": 13,
+  "ts": 48
+}, {
+  "batch": 26,
+  "medName": "Hibiclens",
+  "expdate": "8/25/2023",
+  "nop": 13,
+  "ssp": 4,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 52
+}, {
+  "batch": 27,
+  "medName": "Childrens Mucinex",
+  "expdate": "7/14/2023",
+  "nop": 12,
+  "ssp": 10,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 120
+}, {
+  "batch": 28,
+  "medName": "Ceramide Lift And Firm Makeup Broad Spectrum Sunscreen SPF 15 Mocha",
+  "expdate": "3/28/2023",
+  "nop": 7,
+  "ssp": 12,
+  "medtype": "tablet",
+  "pps": 12,
+  "ts": 84
+}, {
+  "batch": 29,
+  "medName": "Diamox Sequels",
+  "expdate": "2/26/2024",
+  "nop": 5,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 8,
+  "ts": 45
+}, {
+  "batch": 30,
+  "medName": "Spongatos",
+  "expdate": "5/23/2023",
+  "nop": 15,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 11,
+  "ts": 120
+}, {
+  "batch": 31,
+  "medName": "Gabapentin",
+  "expdate": "8/20/2023",
+  "nop": 12,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 9,
+  "ts": 108
+}, {
+  "batch": 32,
+  "medName": "DIPROLENE AF",
+  "expdate": "12/29/2023",
+  "nop": 4,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 60
+}, {
+  "batch": 33,
+  "medName": "Levothyroxine Sodium",
+  "expdate": "12/29/2023",
+  "nop": 4,
+  "ssp": 6,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 24
+}, {
+  "batch": 34,
+  "medName": "KALI MURIATICUM",
+  "expdate": "10/28/2023",
+  "nop": 12,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 156
+}, {
+  "batch": 35,
+  "medName": "Colgate Anticavity",
+  "expdate": "9/26/2023",
+  "nop": 15,
+  "ssp": 3,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 45
+}, {
+  "batch": 36,
+  "medName": "Alendronate Sodium",
+  "expdate": "3/28/2023",
+  "nop": 4,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 36
+}, {
+  "batch": 37,
+  "medName": "SHISEIDO WHITE LUCENT",
+  "expdate": "9/16/2023",
+  "nop": 1,
+  "ssp": 3,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 3
+}, {
+  "batch": 38,
+  "medName": "Nesacaine",
+  "expdate": "9/7/2023",
+  "nop": 1,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 2,
+  "ts": 9
+}, {
+  "batch": 39,
+  "medName": "no drip",
+  "expdate": "8/23/2023",
+  "nop": 8,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 64
+}, {
+  "batch": 40,
+  "medName": "Antibacterial Hand",
+  "expdate": "5/21/2023",
+  "nop": 4,
+  "ssp": 4,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 16
+}, {
+  "batch": 41,
+  "medName": "KETALAR",
+  "expdate": "8/23/2023",
+  "nop": 13,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 10,
+  "ts": 65
+}, {
+  "batch": 42,
+  "medName": "anti itch",
+  "expdate": "6/22/2023",
+  "nop": 9,
+  "ssp": 4,
+  "medtype": "tablet",
+  "pps": 12,
+  "ts": 36
+}, {
+  "batch": 43,
+  "medName": "DR SMITHS DIAPER",
+  "expdate": "4/6/2023",
+  "nop": 4,
+  "ssp": 12,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 48
+}, {
+  "batch": 44,
+  "medName": "Shaving Factory",
+  "expdate": "2/4/2024",
+  "nop": 3,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 9,
+  "ts": 3
+}, {
+  "batch": 45,
+  "medName": "TURKEY FOOD",
+  "expdate": "12/29/2023",
+  "nop": 12,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 13,
+  "ts": 24
+}, {
+  "batch": 46,
+  "medName": "Tramadol Hydrochloride",
+  "expdate": "12/24/2023",
+  "nop": 13,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 11,
+  "ts": 26
+}, {
+  "batch": 47,
+  "medName": "ABILIFY",
+  "expdate": "6/17/2023",
+  "nop": 10,
+  "ssp": 10,
+  "medtype": "tablet",
+  "pps": 15,
+  "ts": 100
+}, {
+  "batch": 48,
+  "medName": "piperacillin and tazobactam",
+  "expdate": "11/20/2023",
+  "nop": 9,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 117
+}, {
+  "batch": 49,
+  "medName": "Fentanyl Citrate",
+  "expdate": "6/17/2023",
+  "nop": 2,
+  "ssp": 7,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 14
+}, {
+  "batch": 50,
+  "medName": "Furosemide",
+  "expdate": "12/8/2023",
+  "nop": 13,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 26
+}, {
+  "batch": 51,
+  "medName": "Childrens Ibuprofen",
+  "expdate": "4/4/2023",
+  "nop": 4,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 13,
+  "ts": 44
+}, {
+  "batch": 52,
+  "medName": "Valsartan and hydrochlorothiazide",
+  "expdate": "7/2/2023",
+  "nop": 10,
+  "ssp": 7,
+  "medtype": "tablet",
+  "pps": 8,
+  "ts": 70
+}, {
+  "batch": 53,
+  "medName": "Softlips Cube Vanilla Bean",
+  "expdate": "10/23/2023",
+  "nop": 12,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 12
+}, {
+  "batch": 54,
+  "medName": "4 Way",
+  "expdate": "12/28/2023",
+  "nop": 8,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 10,
+  "ts": 40
+}, {
+  "batch": 55,
+  "medName": "Pure Finish Mineral Powder Foundation SPF 20 Pure Finish 9",
+  "expdate": "7/1/2023",
+  "nop": 3,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 39
+}, {
+  "batch": 56,
+  "medName": "Bupivacaine Hydrochloride",
+  "expdate": "12/20/2023",
+  "nop": 5,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 10
+}, {
+  "batch": 57,
+  "medName": "DESPIGMEN PROTECTIVE 25",
+  "expdate": "5/24/2023",
+  "nop": 12,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 10,
+  "ts": 12
+}, {
+  "batch": 58,
+  "medName": "Acetaminophen and Codeine Phosphate",
+  "expdate": "8/19/2023",
+  "nop": 5,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 8,
+  "ts": 75
+}, {
+  "batch": 59,
+  "medName": "Iodine Plus Capsule",
+  "expdate": "11/25/2023",
+  "nop": 9,
+  "ssp": 6,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 54
+}, {
+  "batch": 60,
+  "medName": "Leader Day Time",
+  "expdate": "7/1/2023",
+  "nop": 12,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 8,
+  "ts": 12
+}, {
+  "batch": 61,
+  "medName": "ZONISAMIDE",
+  "expdate": "10/17/2023",
+  "nop": 3,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 9,
+  "ts": 3
+}, {
+  "batch": 62,
+  "medName": "Clopidogrel",
+  "expdate": "4/14/2023",
+  "nop": 2,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 10,
+  "ts": 30
+}, {
+  "batch": 63,
+  "medName": "English Walnut Pollen",
+  "expdate": "11/4/2023",
+  "nop": 9,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 13,
+  "ts": 45
+}, {
+  "batch": 64,
+  "medName": "infants",
+  "expdate": "8/5/2023",
+  "nop": 3,
+  "ssp": 4,
+  "medtype": "tablet",
+  "pps": 2,
+  "ts": 12
+}, {
+  "batch": 65,
+  "medName": "Amlodipine Besylate",
+  "expdate": "2/1/2024",
+  "nop": 7,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 13,
+  "ts": 105
+}, {
+  "batch": 66,
+  "medName": "Glaucoma",
+  "expdate": "2/12/2024",
+  "nop": 12,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 10,
+  "ts": 60
+}, {
+  "batch": 67,
+  "medName": "Carvedilol",
+  "expdate": "6/29/2023",
+  "nop": 2,
+  "ssp": 10,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 20
+}, {
+  "batch": 68,
+  "medName": "Powerful Pain Medicine",
+  "expdate": "1/27/2024",
+  "nop": 6,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 66
+}, {
+  "batch": 69,
+  "medName": "RISPERIDONE",
+  "expdate": "11/2/2023",
+  "nop": 1,
+  "ssp": 14,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 14
+}, {
+  "batch": 70,
+  "medName": "Oxygen",
+  "expdate": "4/7/2023",
+  "nop": 3,
+  "ssp": 7,
+  "medtype": "tablet",
+  "pps": 11,
+  "ts": 21
+}, {
+  "batch": 71,
+  "medName": "Chlorpromazine",
+  "expdate": "3/23/2023",
+  "nop": 4,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 60
+}, {
+  "batch": 72,
+  "medName": "Foul Bowel",
+  "expdate": "2/20/2024",
+  "nop": 7,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 14
+}, {
+  "batch": 73,
+  "medName": "Pollens - Trees, Oak Mix",
+  "expdate": "10/1/2023",
+  "nop": 6,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 78
+}, {
+  "batch": 74,
+  "medName": "CLARINS Broad Spectrum SPF 20 Super Restorative Tinted Tint 03",
+  "expdate": "2/3/2024",
+  "nop": 8,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 2,
+  "ts": 8
+}, {
+  "batch": 75,
+  "medName": "CLONIDINE HYDROCHLORIDE",
+  "expdate": "2/9/2024",
+  "nop": 1,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 8
+}, {
+  "batch": 76,
+  "medName": "Mango",
+  "expdate": "11/4/2023",
+  "nop": 7,
+  "ssp": 12,
+  "medtype": "tablet",
+  "pps": 1,
+  "ts": 84
+}, {
+  "batch": 77,
+  "medName": "Fanatrex",
+  "expdate": "8/18/2023",
+  "nop": 3,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 3,
+  "ts": 24
+}, {
+  "batch": 78,
+  "medName": "Ondansetron",
+  "expdate": "8/14/2023",
+  "nop": 4,
+  "ssp": 3,
+  "medtype": "tablet",
+  "pps": 15,
+  "ts": 12
+}, {
+  "batch": 79,
+  "medName": "Adrenal Support",
+  "expdate": "4/20/2023",
+  "nop": 10,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 9,
+  "ts": 110
+}, {
+  "batch": 80,
+  "medName": "Lamotrigine",
+  "expdate": "10/26/2023",
+  "nop": 8,
+  "ssp": 12,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 96
+}, {
+  "batch": 81,
+  "medName": "Bain de Soleil",
+  "expdate": "5/2/2023",
+  "nop": 11,
+  "ssp": 2,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 22
+}, {
+  "batch": 82,
+  "medName": "Carvedilol",
+  "expdate": "9/7/2023",
+  "nop": 2,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 9,
+  "ts": 16
+}, {
+  "batch": 83,
+  "medName": "Pre Dental Visit",
+  "expdate": "8/26/2023",
+  "nop": 5,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 4,
+  "ts": 25
+}, {
+  "batch": 84,
+  "medName": "JIANZE POVIDONE IODINE SCRUB",
+  "expdate": "11/13/2023",
+  "nop": 6,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 11,
+  "ts": 54
+}, {
+  "batch": 85,
+  "medName": "Tikosyn",
+  "expdate": "4/16/2023",
+  "nop": 13,
+  "ssp": 7,
+  "medtype": "tablet",
+  "pps": 15,
+  "ts": 91
+}, {
+  "batch": 86,
+  "medName": "Prednisone",
+  "expdate": "2/7/2024",
+  "nop": 7,
+  "ssp": 12,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 84
+}, {
+  "batch": 87,
+  "medName": "HAMSOA DR ATOBY",
+  "expdate": "10/27/2023",
+  "nop": 14,
+  "ssp": 9,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 126
+}, {
+  "batch": 88,
+  "medName": "Zolmitriptan",
+  "expdate": "4/22/2023",
+  "nop": 15,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 12,
+  "ts": 195
+}, {
+  "batch": 89,
+  "medName": "STOOL SOFTENER",
+  "expdate": "5/25/2023",
+  "nop": 7,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 2,
+  "ts": 35
+}, {
+  "batch": 90,
+  "medName": "LBEL COULEUR LUXE AMPLIFIER XP",
+  "expdate": "9/16/2023",
+  "nop": 2,
+  "ssp": 11,
+  "medtype": "tablet",
+  "pps": 7,
+  "ts": 22
+}, {
+  "batch": 91,
+  "medName": "Cymbalta",
+  "expdate": "9/20/2023",
+  "nop": 9,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 45
+}, {
+  "batch": 92,
+  "medName": "Carvedilol",
+  "expdate": "9/2/2023",
+  "nop": 2,
+  "ssp": 13,
+  "medtype": "tablet",
+  "pps": 8,
+  "ts": 26
+}, {
+  "batch": 93,
+  "medName": "Hydrocortisone",
+  "expdate": "2/21/2024",
+  "nop": 2,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 2,
+  "ts": 30
+}, {
+  "batch": 94,
+  "medName": "Irbesartan",
+  "expdate": "1/5/2024",
+  "nop": 12,
+  "ssp": 7,
+  "medtype": "tablet",
+  "pps": 7,
+  "ts": 84
+}, {
+  "batch": 95,
+  "medName": "Prednisone",
+  "expdate": "3/7/2024",
+  "nop": 1,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 11,
+  "ts": 5
+}, {
+  "batch": 96,
+  "medName": "kirkland signature aller tec",
+  "expdate": "1/18/2024",
+  "nop": 5,
+  "ssp": 15,
+  "medtype": "tablet",
+  "pps": 6,
+  "ts": 75
+}, {
+  "batch": 97,
+  "medName": "Retin-A",
+  "expdate": "2/24/2024",
+  "nop": 14,
+  "ssp": 1,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 14
+}, {
+  "batch": 98,
+  "medName": "Pleo Alb",
+  "expdate": "7/20/2023",
+  "nop": 11,
+  "ssp": 10,
+  "medtype": "tablet",
+  "pps": 14,
+  "ts": 110
+}, {
+  "batch": 99,
+  "medName": "Intense Anxiety",
+  "expdate": "12/16/2023",
+  "nop": 2,
+  "ssp": 8,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 16
+}, {
+  "batch": 100,
+  "medName": "Phentermine Hydrochloride",
+  "expdate": "4/25/2023",
+  "nop": 15,
+  "ssp": 5,
+  "medtype": "tablet",
+  "pps": 5,
+  "ts": 75
+},
+
+{
+  "batch": 476,
+  "medName": "Ear Care",
+  "expdate": "12/5/2023",
+  "quantity": 8,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 445,
+  "medName": "Levitra",
+  "expdate": "11/28/2023",
+  "quantity": 8,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 615,
+  "medName": "Doribax",
+  "expdate": "12/9/2023",
+  "quantity": 2,
+  "nob": 15,
+  "medtype": "syrup"
+}, {
+  "batch": 963,
+  "medName": "Cleocin Phosphate",
+  "expdate": "3/15/2024",
+  "quantity": 6,
+  "nob": 14,
+  "medtype": "syrup"
+}, {
+  "batch": 455,
+  "medName": "Oxytocin",
+  "expdate": "3/7/2024",
+  "quantity": 4,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 188,
+  "medName": "Acyclovir",
+  "expdate": "2/28/2024",
+  "quantity": 2,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 425,
+  "medName": "Ear Wax Remover",
+  "expdate": "8/29/2023",
+  "quantity": 6,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 753,
+  "medName": "SNAIL THERAPY 80 EMULSION",
+  "expdate": "10/10/2023",
+  "quantity": 13,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 536,
+  "medName": "METFORMIN HYDROCHLORIDE",
+  "expdate": "4/7/2023",
+  "quantity": 1,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 184,
+  "medName": "Levothyroxine Sodium",
+  "expdate": "11/23/2023",
+  "quantity": 3,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 530,
+  "medName": "Derma-Smoothe/FS",
+  "expdate": "4/30/2023",
+  "quantity": 8,
+  "nob": 14,
+  "medtype": "syrup"
+}, {
+  "batch": 150,
+  "medName": "METOPROLOL TARTRATE AND HYDROCHLOROTHIAZIDE",
+  "expdate": "2/15/2024",
+  "quantity": 4,
+  "nob": 11,
+  "medtype": "syrup"
+}, {
+  "batch": 173,
+  "medName": "Health Mart Pain Relief",
+  "expdate": "7/25/2023",
+  "quantity": 6,
+  "nob": 11,
+  "medtype": "syrup"
+}, {
+  "batch": 694,
+  "medName": "Cilostazol",
+  "expdate": "4/25/2023",
+  "quantity": 12,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 242,
+  "medName": "Computer Eye Relief",
+  "expdate": "12/4/2023",
+  "quantity": 1,
+  "nob": 3,
+  "medtype": "syrup"
+}, {
+  "batch": 661,
+  "medName": "Covergirl Outlast Stay Fabulous 3in1 Foundation",
+  "expdate": "11/11/2023",
+  "quantity": 1,
+  "nob": 14,
+  "medtype": "syrup"
+}, {
+  "batch": 703,
+  "medName": "Topicort",
+  "expdate": "7/20/2023",
+  "quantity": 14,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 607,
+  "medName": "Citalopram",
+  "expdate": "2/13/2024",
+  "quantity": 8,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 426,
+  "medName": "ProstaScint Kit for the Preparation of Indium In 111 Capromab Pendetide",
+  "expdate": "9/2/2023",
+  "quantity": 3,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 597,
+  "medName": "Trihexyphenidyl hydrochloride",
+  "expdate": "11/11/2023",
+  "quantity": 7,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 692,
+  "medName": "Hemorrhoidal",
+  "expdate": "12/9/2023",
+  "quantity": 13,
+  "nob": 10,
+  "medtype": "syrup"
+}, {
+  "batch": 459,
+  "medName": "Bacitracin Zinc",
+  "expdate": "9/9/2023",
+  "quantity": 15,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 374,
+  "medName": "up and up pain relief",
+  "expdate": "9/5/2023",
+  "quantity": 1,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 812,
+  "medName": "C Mold Mixture",
+  "expdate": "4/12/2023",
+  "quantity": 9,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 930,
+  "medName": "Edluar",
+  "expdate": "1/18/2024",
+  "quantity": 10,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 902,
+  "medName": "Amlodipine Besylate",
+  "expdate": "12/28/2023",
+  "quantity": 2,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 369,
+  "medName": "North Burn",
+  "expdate": "11/10/2023",
+  "quantity": 15,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 944,
+  "medName": "Cetirizine Hydrochloride",
+  "expdate": "4/16/2023",
+  "quantity": 10,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 576,
+  "medName": "Ertaczo",
+  "expdate": "7/15/2023",
+  "quantity": 8,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 777,
+  "medName": "Cyclobenzaprine Hydrochloride",
+  "expdate": "5/1/2023",
+  "quantity": 10,
+  "nob": 11,
+  "medtype": "syrup"
+}, {
+  "batch": 391,
+  "medName": "Bisoprolol Fumarate and Hydrochlorothiazide",
+  "expdate": "7/9/2023",
+  "quantity": 4,
+  "nob": 11,
+  "medtype": "syrup"
+}, {
+  "batch": 911,
+  "medName": "Chlorpropamide",
+  "expdate": "10/27/2023",
+  "quantity": 3,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 887,
+  "medName": "Amlodipine besylate and Atorvastatin calcium",
+  "expdate": "11/1/2023",
+  "quantity": 10,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 443,
+  "medName": "Resilience Lift Extreme",
+  "expdate": "2/22/2024",
+  "quantity": 14,
+  "nob": 15,
+  "medtype": "syrup"
+}, {
+  "batch": 718,
+  "medName": "Sani Claw Wipes",
+  "expdate": "7/5/2023",
+  "quantity": 14,
+  "nob": 9,
+  "medtype": "syrup"
+}, {
+  "batch": 425,
+  "medName": "Risperidone",
+  "expdate": "7/5/2023",
+  "quantity": 7,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 334,
+  "medName": "TopCare Omeprazole",
+  "expdate": "1/24/2024",
+  "quantity": 1,
+  "nob": 9,
+  "medtype": "syrup"
+}, {
+  "batch": 585,
+  "medName": "Chlorthalidone",
+  "expdate": "8/21/2023",
+  "quantity": 4,
+  "nob": 10,
+  "medtype": "syrup"
+}, {
+  "batch": 787,
+  "medName": "good neighbor pharmacy sinus",
+  "expdate": "12/31/2023",
+  "quantity": 8,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 292,
+  "medName": "Enalapril Maleate",
+  "expdate": "1/14/2024",
+  "quantity": 6,
+  "nob": 9,
+  "medtype": "syrup"
+}, {
+  "batch": 188,
+  "medName": "PHYTOGENIC INFINITE FOUNDATION",
+  "expdate": "1/9/2024",
+  "quantity": 2,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 958,
+  "medName": "Absorbine BACK Therapeutic Pain Relief",
+  "expdate": "1/23/2024",
+  "quantity": 4,
+  "nob": 9,
+  "medtype": "syrup"
+}, {
+  "batch": 402,
+  "medName": "Gas Relief",
+  "expdate": "8/17/2023",
+  "quantity": 3,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 678,
+  "medName": "SEPHORA Acne-Fighting Mattifying Moisturizer",
+  "expdate": "9/27/2023",
+  "quantity": 2,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 960,
+  "medName": "PHYTONADIONE",
+  "expdate": "3/21/2023",
+  "quantity": 4,
+  "nob": 10,
+  "medtype": "syrup"
+}, {
+  "batch": 406,
+  "medName": "TERUFLEX Blood Bag System Anticoagulant Citrate Phosphate Dextrose (CPD) AND OPTISOL Red Cell Preservative",
+  "expdate": "2/12/2024",
+  "quantity": 3,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 647,
+  "medName": "Risperidone",
+  "expdate": "5/10/2023",
+  "quantity": 5,
+  "nob": 2,
+  "medtype": "syrup"
+}, {
+  "batch": 557,
+  "medName": "Diazepam Intensol",
+  "expdate": "9/9/2023",
+  "quantity": 3,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 962,
+  "medName": "Pleo Fort",
+  "expdate": "3/22/2023",
+  "quantity": 13,
+  "nob": 15,
+  "medtype": "syrup"
+}, {
+  "batch": 170,
+  "medName": "Labsco Sterile Alcohol Prep Pad",
+  "expdate": "6/18/2023",
+  "quantity": 4,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 852,
+  "medName": "Rouge Dior 560 Radiant Pink Serum",
+  "expdate": "7/30/2023",
+  "quantity": 6,
+  "nob": 2,
+  "medtype": "syrup"
+}, {
+  "batch": 334,
+  "medName": "EYE ITCH RELIEF",
+  "expdate": "9/17/2023",
+  "quantity": 4,
+  "nob": 3,
+  "medtype": "syrup"
+}, {
+  "batch": 166,
+  "medName": "Hycet",
+  "expdate": "5/18/2023",
+  "quantity": 4,
+  "nob": 15,
+  "medtype": "syrup"
+}, {
+  "batch": 822,
+  "medName": "Total White Brightening",
+  "expdate": "1/2/2024",
+  "quantity": 9,
+  "nob": 3,
+  "medtype": "syrup"
+}, {
+  "batch": 978,
+  "medName": "Swim-EAR",
+  "expdate": "8/16/2023",
+  "quantity": 4,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 706,
+  "medName": "SPF 40 UVA/UVB",
+  "expdate": "6/8/2023",
+  "quantity": 13,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 520,
+  "medName": "Smart San Alcohol Free Hand Sanitizer Foam",
+  "expdate": "12/26/2023",
+  "quantity": 7,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 367,
+  "medName": "Multaq",
+  "expdate": "1/12/2024",
+  "quantity": 12,
+  "nob": 3,
+  "medtype": "syrup"
+}, {
+  "batch": 127,
+  "medName": "Atenolol",
+  "expdate": "6/17/2023",
+  "quantity": 10,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 434,
+  "medName": "Ibuprofen",
+  "expdate": "10/27/2023",
+  "quantity": 13,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 327,
+  "medName": "Game Day MSC Mainstreet Collection Hand Sanitizer",
+  "expdate": "2/16/2024",
+  "quantity": 1,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 349,
+  "medName": "Loxapine",
+  "expdate": "1/28/2024",
+  "quantity": 10,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 690,
+  "medName": "Cortisone Acetate",
+  "expdate": "8/4/2023",
+  "quantity": 11,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 931,
+  "medName": "Vibramycin Monohydrate",
+  "expdate": "12/6/2023",
+  "quantity": 1,
+  "nob": 14,
+  "medtype": "syrup"
+}, {
+  "batch": 970,
+  "medName": "Palmers Amaranth",
+  "expdate": "1/4/2024",
+  "quantity": 15,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 779,
+  "medName": "BROMUS INERMIS POLLEN",
+  "expdate": "1/23/2024",
+  "quantity": 7,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 632,
+  "medName": "Plum",
+  "expdate": "9/9/2023",
+  "quantity": 5,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 925,
+  "medName": "Absorica",
+  "expdate": "8/4/2023",
+  "quantity": 5,
+  "nob": 4,
+  "medtype": "syrup"
+}, {
+  "batch": 150,
+  "medName": "Oxycodone Hydrochloride",
+  "expdate": "11/2/2023",
+  "quantity": 2,
+  "nob": 10,
+  "medtype": "syrup"
+}, {
+  "batch": 159,
+  "medName": "Quinapril Hydrochloride and Hydrochlorothiazide",
+  "expdate": "9/14/2023",
+  "quantity": 6,
+  "nob": 13,
+  "medtype": "syrup"
+}, {
+  "batch": 568,
+  "medName": "Candida",
+  "expdate": "5/14/2023",
+  "quantity": 8,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 161,
+  "medName": "Pollens - Weeds and Garden Plants, Dog Fennel, Eastern Eupatorium capillifolium",
+  "expdate": "2/2/2024",
+  "quantity": 10,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 316,
+  "medName": "Neutrogena Nourishing Long Wear Makeup Tone Correcting Complex Sunscreen Broad Spectrum SPF20",
+  "expdate": "11/16/2023",
+  "quantity": 3,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 237,
+  "medName": "Infected Cuts and Punctures",
+  "expdate": "2/22/2024",
+  "quantity": 7,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 500,
+  "medName": "ck one airlight pressed powder spf 15",
+  "expdate": "1/30/2024",
+  "quantity": 2,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 915,
+  "medName": "stila CC color correcting broad-spectrum SPF 20 01 FAIR",
+  "expdate": "6/25/2023",
+  "quantity": 8,
+  "nob": 14,
+  "medtype": "syrup"
+}, {
+  "batch": 272,
+  "medName": "No Foundation Foundation No.2 Light to Medium",
+  "expdate": "11/7/2023",
+  "quantity": 8,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 884,
+  "medName": "Bryonia Stannum",
+  "expdate": "10/3/2023",
+  "quantity": 1,
+  "nob": 2,
+  "medtype": "syrup"
+}, {
+  "batch": 977,
+  "medName": "Up and Up Cold and Head Congestion",
+  "expdate": "8/16/2023",
+  "quantity": 14,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 181,
+  "medName": "Magnesium Sulfate",
+  "expdate": "3/25/2023",
+  "quantity": 8,
+  "nob": 14,
+  "medtype": "syrup"
+}, {
+  "batch": 646,
+  "medName": "Prednisone",
+  "expdate": "12/31/2023",
+  "quantity": 4,
+  "nob": 2,
+  "medtype": "syrup"
+}, {
+  "batch": 494,
+  "medName": "Azathioprine",
+  "expdate": "10/20/2023",
+  "quantity": 5,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 237,
+  "medName": "Serostim",
+  "expdate": "10/25/2023",
+  "quantity": 7,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 496,
+  "medName": "Dermagesic",
+  "expdate": "4/28/2023",
+  "quantity": 5,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 849,
+  "medName": "Acetaminophen",
+  "expdate": "4/29/2023",
+  "quantity": 3,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 778,
+  "medName": "Aspergillus terreus",
+  "expdate": "10/22/2023",
+  "quantity": 13,
+  "nob": 6,
+  "medtype": "syrup"
+}, {
+  "batch": 353,
+  "medName": "California Live Oak",
+  "expdate": "10/4/2023",
+  "quantity": 15,
+  "nob": 3,
+  "medtype": "syrup"
+}, {
+  "batch": 245,
+  "medName": "Lip Smacker SPF Cherry Berry Ball",
+  "expdate": "9/15/2023",
+  "quantity": 10,
+  "nob": 1,
+  "medtype": "syrup"
+}, {
+  "batch": 689,
+  "medName": "Isoniazid",
+  "expdate": "8/28/2023",
+  "quantity": 13,
+  "nob": 10,
+  "medtype": "syrup"
+}, {
+  "batch": 781,
+  "medName": "Good Neighbor Pharmacy Diaper Rash",
+  "expdate": "2/12/2024",
+  "quantity": 15,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 643,
+  "medName": "Caldesene",
+  "expdate": "9/14/2023",
+  "quantity": 10,
+  "nob": 7,
+  "medtype": "syrup"
+}, {
+  "batch": 798,
+  "medName": "Norethindrone Acetate",
+  "expdate": "9/17/2023",
+  "quantity": 10,
+  "nob": 15,
+  "medtype": "syrup"
+}, {
+  "batch": 632,
+  "medName": "ANTI BACTERIAL HAND SANITIZER",
+  "expdate": "3/11/2024",
+  "quantity": 2,
+  "nob": 12,
+  "medtype": "syrup"
+}, {
+  "batch": 210,
+  "medName": "sodium bicarbonate",
+  "expdate": "9/29/2023",
+  "quantity": 9,
+  "nob": 4,
+  "medtype": "syrup"
+}, {
+  "batch": 180,
+  "medName": "Dove",
+  "expdate": "7/5/2023",
+  "quantity": 11,
+  "nob": 4,
+  "medtype": "syrup"
+}, {
+  "batch": 634,
+  "medName": "Anticavity Fluoride Rinse",
+  "expdate": "12/11/2023",
+  "quantity": 7,
+  "nob": 2,
+  "medtype": "syrup"
+}, {
+  "batch": 912,
+  "medName": "Methadone Hydrochloride",
+  "expdate": "12/11/2023",
+  "quantity": 12,
+  "nob": 5,
+  "medtype": "syrup"
+}, {
+  "batch": 627,
+  "medName": "Active Sport",
+  "expdate": "3/10/2024",
+  "quantity": 9,
+  "nob": 8,
+  "medtype": "syrup"
+}, {
+  "batch": 498,
+  "medName": "Well at Walgreens",
+  "expdate": "7/1/2023",
+  "quantity": 15,
+  "nob": 11,
+  "medtype": "syrup"
+}, {
+  "batch": 897,
+  "medName": "Citroma",
+  "expdate": "6/5/2023",
+  "quantity": 11,
+  "nob": 14,
+  "medtype": "syrup"
+}
+]
+

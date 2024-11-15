@@ -1,0 +1,81 @@
+.wrapper {
+	width: 100%;
+	/* min-height: 100vh; */
+	margin: auto;
+	/* margin-left: 9vw; */
+	display: flex;
+	height: fit-content;
+	/* position: absolute; */
+	/* align-items: center;*/
+	justify-content: center; 
+}
+
+.container {
+	margin-top: 1em;
+	margin: auto;
+	width: 1000px;
+	border-radius: 10px;
+	height:fit-content;
+	box-shadow: var(--box-shadow);
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+	background-color: white;
+	padding-bottom: 5vh;
+}
+
+.head {
+	display: flex;
+	align-content: center;
+	height: 80px;
+	background: linear-gradient(170deg, #6cd0ff 0%, #1c2e4c 100%);
+	justify-content: space-between;
+}
+
+.logo {
+	width: 100px;
+	object-fit: contain;
+	margin-left: 15px;
+}
+
+.body {
+	height: 100%;
+	width: 100%;
+	display: flex;
+}
+
+.table_container {
+	padding-right: 30px;
+	/* flex: 3; */
+	/* position: relative; */
+	align-items: center;
+	justify-content: center;
+}
+
+.filter_container {
+	flex: 1;
+}
+
+.notfound{
+	/* position: relative; */
+	/* background-color: blue; */
+	align-items: center;
+	justify-content: center;
+	justify-items: center;
+	text-align: center;
+	color: rgb(255, 44, 44);
+	text-decoration: 5px solid;
+}
+
+/* .notfound .div{
+	position: absolute;
+	left: 40%;
+	background-color: blueviolet;
+	width: fit-content;
+	height: fit-content;
+} */
+.notfound .error-img{
+	height: 30vh;
+	margin-top: 20vh;
+	transition: .3s ease-in;
+}
