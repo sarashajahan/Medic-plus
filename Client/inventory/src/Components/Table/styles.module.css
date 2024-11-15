@@ -1,0 +1,120 @@
+.container{
+	width: 65vw;
+}
+
+.container .Link{
+	text-decoration: none;
+	
+}
+
+.heading {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	height: 60px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	box-shadow: var(--box-shadow);
+	margin-top: 10px;
+	background-color: white;
+	border-radius: 4px;
+}
+.heading p{
+	margin-top: 10px;
+}
+
+.title_tab {
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--black);
+	/* flex: 1.5; */
+	width: 10%;
+	text-align: left;
+	text-align: center;
+	/* margin-left: 20px; */
+}
+
+.mfgdate_tab , .expdate_tab {
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--black);
+	width: 20%;
+	text-align: center;
+}
+
+.nop_tab, .pps_tab, .spp_tab {
+	font-size: 16px;
+	font-weight: 600;
+	color: var(--black);
+	width: 20%;
+	text-align: center;
+}
+
+.task {
+	display: flex;
+	align-items: center;
+	height: 90px;
+	justify-content: justify;
+	margin: 5px 10px;
+	box-shadow: 5px 5px 10px  rgb(173, 173, 173) ;
+	cursor: pointer;
+	transition: all 0.1s ease;
+	background-color: white;
+	border-radius: 4px;
+	color: black;
+}
+
+.task:hover {
+	scale: 1.01;
+}
+
+.title_container {
+	/* flex: 1; */
+	width: 20%;
+	display: flex;
+	align-items: center;
+	/* object-fit: contain; */
+	text-align: center;
+	/* background-color: blue; */
+	/* margin: 10px; */
+}
+
+
+
+.task_title {
+	font-size: 16px;
+	font-weight: 500;
+	text-align: center;
+	width: 20%;
+	margin: 10px;
+	
+}
+ .expdate_container {
+	width: 20%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	
+}
+
+.task_expdate {
+	font-size: 16px;
+	font-weight: 400;
+}
+
+.nop_container, .update_container {
+	/* flex: .8; */
+	width: 20%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+
+
+.task_nop {
+	font-size: 16px;
+	font-weight: 400;
+}

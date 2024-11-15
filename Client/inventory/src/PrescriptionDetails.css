@@ -1,0 +1,126 @@
+.prescription-details-container {
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+    margin-left: 10vw;
+    margin-right: 10vw;
+
+}
+
+.signin-div2{
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: fit-content;
+}
+
+#search-bar{
+    color: black;
+}
+.link{
+    text-decoration: none;
+    color: #000;
+}
+.prescription-list {
+    max-height: 400px;
+  }
+
+.prescription-list ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.prescription-list li {
+    box-shadow: 3px 3px 8px 3px rgba(50, 211, 255, 0.716);
+    border: 1px solid rgb(3, 200, 255);
+    padding: 7vh;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+.prescription-list li p {
+    margin: 5px 0;
+}
+
+.Alldetails{
+    height: 100%;
+    background-color: blueviolet;
+    font-size: 16px;
+}
+
+.Alldetails p{
+    font-size: 20px;
+    color:#000;
+}
+
+.Alldetails ol{
+    color:#000;
+}
+
+.prescription-table {
+    border-collapse: collapse;
+    width: 100%;
+    box-shadow: 10px 10px 15px #cbced1, -10px -10px 15px #ffffff;
+    margin-bottom: 2vh;
+}
+
+.prescription-table th,
+.prescription-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    color: #000;
+}
+
+.medicines-table td{
+    background-color: white;
+}
+
+.medicines-table ul{
+    list-style: none;
+}
+
+
+.prescription-table th {
+    background-color: #2fa6f5;
+    color: white;
+    text-align: left;
+}
+
+.prescription-table tr:nth-child(even) {
+    background-color: #6ac1fb;
+    color: black;
+}
+
+.prescription-table tr:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.toggle-button-done:disabled {
+    background-color: rgb(13, 235, 13);
+    color: #000;
+    cursor: not-allowed;
+    opacity: 0.6;
+    border: 3px solid rgb(32, 169, 32);
+    height: 40px;
+    width: 70px;
+}
+
+.toggle-button:disabled {
+    background-color: rgb(255, 0, 0);
+    color: #000;
+    cursor: not-allowed;
+    opacity: 0.6;
+    border: 3px solid rgb(184, 28, 28);
+    height: 40px;
+    width: 70px;
+}
+
+.signin-button:disabled{
+    background-color: rgb(13, 235, 13);
+    border: 3px solid rgb(32, 169, 32);
+}
+
+button{
+    margin-top: 20px;
+}
